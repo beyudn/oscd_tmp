@@ -4,8 +4,8 @@ status: experimental
 description: Detects clear command history
 references:
     - 
-date: 2020/06/11
-author: Florian Roth
+date: 2020/06/19
+author: Beyu Denis oscd community
 logsource:
     product: linux
     service: auditd
